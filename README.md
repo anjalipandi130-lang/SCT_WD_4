@@ -1,2 +1,24 @@
-# SCT_WD_4
-Task 04 - To-Do Web Application developed as part of the SkillCraft Technology Web Development Internship. This project allows users to add, edit, delete, organize, and complete tasks with date and time support. It also includes task filtering and Local Storage to save data between sessions. Built using HTML, CSS, and JavaScript.
+# Task 04 - To-Do Web App
+
+This project was developed as part of the SkillCraft Technology Web Development Internship.
+
+## Features
+
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Filter tasks (All, Pending, Completed)
+- Set date and time for tasks
+- Save tasks using Local Storage
+- Responsive and modern user interface
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+
+Anjali P
